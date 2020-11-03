@@ -2,7 +2,7 @@
 CONST HOST="localhost";
 CONST USUARIO="pruebaphp";
 CONST CONTRASEÑA="prueba";
-CONST BD="foro2";
+CONST BD="fororicarteje2";
 
 function conectarBD($host,$usuario,$contraseña,$bd)
 {
